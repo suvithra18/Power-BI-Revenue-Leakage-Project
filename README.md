@@ -144,4 +144,18 @@ The solution utilizes structured financial datasets including:
 - ☁️ Cloud Data Integration
 
 ---
+## 📷 Dashboard Screenshots
+<p align="center">
+  <img src="screenshot/home.png" width="45%">
+  <img src="screenshot/financial.png" width="45%">
+</p>
 
+<p align="center">
+  <img src="screenshot/revenue.png" width="45%">
+  <img src="screenshot/customer_risk.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshot/trend.png" width="45%">
+  <img src="screenshot/insights.png" width="45%">
+</p>
